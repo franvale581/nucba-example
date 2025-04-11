@@ -125,15 +125,7 @@ const productsData = [
     userImg: "./assets/img/user.png",
     cardImg: "./assets/img/products/stathan.png",
   },
-  {
-    id: 15,
-    name: "Angelina Jolie",
-    bid: 7.46,
-    user: "CamiCrow",
-    category: "peliculas",
-    userImg: "./assets/img/user.png",
-    cardImg: "./assets/img/products/jolie.png",
-  },
+
 ];
 
 //función para dividir los productos en arrays de "size" productos
